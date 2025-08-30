@@ -25,10 +25,10 @@ project/
 
 ## 🛠️ Installation
 1. Клонирование репозитория
-'''bash
+``` bash
 git clone <your-repo-url>
 cd airflow-dag-generator
-'''
+```
 3. Настройка окружения
 '''bash
 cp .env.example .env
