@@ -19,6 +19,8 @@ project/
 ├── dags/
 │   ├── dag_generator.py     # Основной генератор DAG'ов
 │   └── watch_sources.py     # Мониторинг изменений
+├── logs/                    # Хранение логов
+├── plugins/                 # Плагины (опционально)
 ├── sources/                 # Исходные файлы
 │   ├── example_etl.py       # Python ETL пример
 │   └── create_tables.sql    # SQL DDL пример
