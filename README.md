@@ -34,7 +34,7 @@ project/
 ## 🛠️ Installation
 1. Клонирование репозитория
 ``` bash
-git clone <your-repo-url>
+git clone <https://github.com/fas057/Airflow-DAG_Generator>
 cd airflow-dag-generator
 ```
 3. Настройка окружения
