@@ -1,0 +1,7 @@
+apache-airflow-providers-apache-spark==5.0.0
+apache-airflow-providers-common-sql==1.9.0
+apache-airflow-providers-apache-hive==6.1.1
+pyspark==3.4.2
+py4j==0.10.9.7
+clickhouse-connect==0.8.0
+clickhouse-driver==0.2.9
