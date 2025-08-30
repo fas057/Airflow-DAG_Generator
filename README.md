@@ -26,6 +26,7 @@ project/
 ├── Dockerfile              # Кастомный образ Airflow
 ├── .env                    # Переменные окружения
 └── requirements.txt        # Зависимости Python
+└── init_airflow_variables.py   # Инициализация переменных окружения Airflow
 ```
 
 ## 🛠️ Installation
