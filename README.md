@@ -94,16 +94,21 @@ Docker контейнеры - изолированное окружение
 Постоянный мониторинг папки sources/
 Динамическое создание/обновление DAG'ов при изменениях.
 
-Тут находятся все контейнере из Dockerfile.
+Тут находятся все контейнеры из Dockerfile.
 ![containers](https://github.com/user-attachments/assets/7a8ff223-f486-4f90-b602-43e47f9b3bc8)
+
 Работа с файлом .py.
 ![pythonfile](https://github.com/user-attachments/assets/15f0fb81-c4dc-4df1-b8ac-96639c8f9024)
+
 Граф .py
 ![graphpython](https://github.com/user-attachments/assets/df471105-c023-4212-9c55-db37e43ff2b2)
+
 Логи, подтверждающие успешную работу с файлом .py.
 ![logspython](https://github.com/user-attachments/assets/b89cca5e-dc1b-49bf-8a0d-257787a7112e)
+
 Задача по SQL с симуляцией загрузки данных.
 ![sqltask](https://github.com/user-attachments/assets/d8ff9573-5938-4084-8af2-823776a89840)
+
 Логи, подтверждающие успешное выполнение задачи.
 ![sqllogs](https://github.com/user-attachments/assets/7640c216-2915-4f8c-8299-1765c2580d53)
 
